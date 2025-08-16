@@ -1,6 +1,0 @@
-site_name: AEDrone
-nav:
-  - Home: index.md
-  - Project: blog/Project.md
-  - About: about.md
-theme: readthedocs
